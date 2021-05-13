@@ -1,0 +1,12 @@
+n1 = float(input("Digite a primeira nota: "))
+n2 = float(input("Digite a segunda nota: "))
+n3 = float(input("Digite a terceira nota: "))
+n4 = float(input("Digite a quarta nota: "))
+n5 = float(input("Digite a quinta nota: "))
+m = (n1+n2+n3+n4+n5)/5
+print("A primeira nota é ",n1)
+print("A segunda nota é ",n2)
+print("A terceira nota é ",n3)
+print("A quarta nota é ",n4)
+print("A quinta nota é ",n5)
+print("A média é ",m)
